@@ -47,9 +47,9 @@ AI-Resume-Screener/
 
 1. Clone the repo:
 
-'''bash
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Screener.git
-cd AI-Resume-Screener'''
+['''bash
+[git clone https://github.com/YOUR_USERNAME/AI-Resume-Screener.git](https://github.com/GourabDG36/AI-Resume-Screener.git)
+cd AI-Resume-Screener'''](https://github.com/GourabDG36/AI-Resume-Screener.git)
 
 2. (Optional but recommended) Create a virtual environment:
 
